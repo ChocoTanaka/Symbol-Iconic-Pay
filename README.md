@@ -1,16 +1,9 @@
-# iconicpay
+# Symbol-Iconic-Pay
 
-symbolIconic
+This application is “Symbol-Iconic-Pay”, an application for paying XYM (cryptocurrency blockchain "Symbol") using NFC card.
 
-## Getting Started
+To use this, first create an NFC card with an account at Iconic-Maker.(https://github.com/ChocoTanaka/Symbol-Iconic-Maker)
 
-This project is a starting point for a Flutter application.
+This app is currently for testnet only.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Please use Mifare (NFC-A) NFC cards.
